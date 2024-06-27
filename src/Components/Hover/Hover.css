@@ -1,0 +1,21 @@
+.Hover__title{
+    margin-top: 300px;
+    font-family: "Public Sans" ,sans-serif;
+    font-size: 40px;
+    font-weight: 100;
+    line-height: 64px;
+    letter-spacing: -0.7142857313156128px;
+    text-align: left;    
+    color: #2D314D; 
+}
+.Hover__text{
+    margin-top: 30px;
+    font-family: "PublicSans" ,sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: -0.28125px;
+    text-align: left;
+    color: #9597A5;  
+    width: 635px;
+    height: 56px;  
+}

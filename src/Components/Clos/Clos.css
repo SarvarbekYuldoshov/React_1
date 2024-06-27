@@ -1,0 +1,38 @@
+.Clos__list{
+    display: flex;
+    gap: 20px;
+}
+.Clos__text-a{
+    margin-top: 10px;
+    font-family: "PublicSans" ,sans-serif;
+    font-size: 10px;
+    line-height: 18px;
+    letter-spacing: -0.15625px;
+    color: #9597A5;
+    text-align: left;    
+    width: 85px;
+    height: 18px;  
+}
+.Clos__title{
+    margin-top: 10px;
+    font-family: "Public Sans" ,sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 20px;
+    letter-spacing: -0.2857142984867096px;
+    text-align: left;    
+    color: #2D314D;
+    width: 207px;
+    height: 40px;
+}
+.Clos__text-b{
+    margin-top: 20px;
+    font-family: "PublicSans" ,sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: -0.203125px;
+    text-align: left;  
+    color: #9597A5;  
+    width: 207px;
+    height: 72px;
+}
