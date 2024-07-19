@@ -1,9 +1,9 @@
 .Clos__list{
     display: flex;
-    gap: 20px;
+    gap: 22px;
 }
 .Clos__text-a{
-    margin-top: 10px;
+    margin-top: 11px;
     font-family: "PublicSans" ,sans-serif;
     font-size: 10px;
     line-height: 18px;
@@ -14,7 +14,7 @@
     height: 18px;  
 }
 .Clos__title{
-    margin-top: 10px;
+    margin-top: 11px;
     font-family: "Public Sans" ,sans-serif;
     font-size: 16px;
     font-weight: 100;
