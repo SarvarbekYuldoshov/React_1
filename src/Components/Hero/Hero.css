@@ -29,7 +29,7 @@
     color: #2D314D;
 }
 .Hero__text{
-    margin-top: 30px;
+    margin-top: 29px;
     width: 447px;
     height: 84px;   
     font-family: "PublicSans" ,sans-serif;
@@ -58,5 +58,5 @@
    transition: 0.5s;
    color: #FFFF;
    border-radius: 30px;
-   transform: scale(1.1);
+   transform: scale(0.95);
 }
