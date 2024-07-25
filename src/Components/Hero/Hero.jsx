@@ -12,8 +12,8 @@ const Hero = () => {
             <button className='Hero__btn'>Request Invite</button>
         </ul>
         <ul className='Hero__list'>
-            <img className='Hero__img-a' src={Logo_1} alt="" />
-            <img className='Hero__img-b' src={Logo_2} alt="" />
+            <img className='Hero__img-a' src={Logo_1} alt="rasm1" />
+            <img className='Hero__img-b' src={Logo_2} alt="rasm2" />
         </ul>
       </div>
     </div>
